@@ -26,7 +26,7 @@ I'm Vijay Sekar T G, a bachelor's student in IT with a passion for exploring cut
 
 ## Contact
 
-- LinkedIn**: [Vijay Sekar T G](https://www.linkedin.com/in/vijaysekartg)
+- LinkedIn: [Vijay Sekar T G](https://www.linkedin.com/in/vijaysekartg)
 - Email: vijaysekar929@example.com
 
 ## Acknowledgments
